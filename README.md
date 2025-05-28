@@ -1,5 +1,4 @@
 # 🧪 XWorm 5.6 – Patched (Non-RCE Edition)
-Password to Zip File: ixeeno
 
 This is a **stripped-down, non-malicious educational version** of the XWorm 5.6 malware. All **remote code execution (RCE)** capabilities and other harmful behaviors have been **completely removed**.
 
